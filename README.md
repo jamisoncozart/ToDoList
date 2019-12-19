@@ -1,2 +1,2 @@
 # ToDoList
-Simple Javascript To-do list
+Simple Front-End To-do list
